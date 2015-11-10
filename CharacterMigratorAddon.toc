@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: CharacterMigratorAddon |r|c0080ff80 Wotlk|r
+## Author: Editado por dxider.
+## Notes: |TEnvironments\Stars\Nexus_data_curtain_blur:180:120|t
+## Version: 12.496
+## SavedVariables: CHDMP_DATA, CHDMP_KEY
+
+luaglobal.lua
+b64.lua
+sha1.lua
+
+json\json.lua
+
+datastore.lua
+CharacterMigratorAddon.lua
